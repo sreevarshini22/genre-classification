@@ -38,8 +38,9 @@ The following techniques are used in this project:
   * Support Vector Machine (SVM)
 
 ## Dataset
+The dataset files are provided in compressed (.zip) format.
+Extract the files before running the notebook in Google Colab.
 
-The dataset contains movie plot summaries and their corresponding genres.
 
 Files used:
 
